@@ -3,7 +3,7 @@
 - https://yggdrash.io
 
 ## Developer
-- [Blockchain Developer](./Developer.MD)
+- [Blockchain Developer](./Developer.md)
   - Yggdrash Core
     - Network
   - Cryptographer
