@@ -1,4 +1,4 @@
-# Hi We want new Yggdrash Member.
+# Join the Yggdrash Crew
 
 - https://yggdrash.io
 
