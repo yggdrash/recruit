@@ -26,4 +26,7 @@
 
 ## use sha256 function
 
+## OR
 
+## Send to email recruit@yggdrash.io
+## Two type is different 
