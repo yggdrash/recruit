@@ -29,4 +29,9 @@
 ## OR
 
 ## Send to email recruit@yggdrash.io
-## Two type is different 
+## Two type is different
+
+### Requirement 
+- JAVA
+- Enjoy Development
+- Blockchain knowledge (option) 
